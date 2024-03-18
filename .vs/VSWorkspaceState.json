@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BusinessLayer",
+    "\\BusinessLayer\\Abstract",
+    "\\BusinessLayer\\Concrete"
+  ],
+  "SelectedNode": "\\BusinessLayer\\Abstract\\ISkillService.cs",
+  "PreviewInSolutionExplorer": false
+}
